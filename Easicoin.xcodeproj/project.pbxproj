@@ -51,7 +51,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		0274CD3F264783B5008099B6 /* SwiftfulCrypto.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftfulCrypto.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		0274CD3F264783B5008099B6 /* Easicoin.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Easicoin.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0274CD42264783B5008099B6 /* SwiftfulCryptoApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftfulCryptoApp.swift; sourceTree = "<group>"; };
 		0274CD46264783B8008099B6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0274CD49264783B8008099B6 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
@@ -118,7 +118,7 @@
 		0274CD40264783B5008099B6 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				0274CD3F264783B5008099B6 /* SwiftfulCrypto.app */,
+				0274CD3F264783B5008099B6 /* Easicoin.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -327,9 +327,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		0274CD3E264783B5008099B6 /* SwiftfulCrypto */ = {
+		0274CD3E264783B5008099B6 /* Easicoin */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 0274CD4E264783B8008099B6 /* Build configuration list for PBXNativeTarget "SwiftfulCrypto" */;
+			buildConfigurationList = 0274CD4E264783B8008099B6 /* Build configuration list for PBXNativeTarget "Easicoin" */;
 			buildPhases = (
 				0274CD3B264783B5008099B6 /* Sources */,
 				0274CD3C264783B5008099B6 /* Frameworks */,
@@ -339,9 +339,9 @@
 			);
 			dependencies = (
 			);
-			name = SwiftfulCrypto;
+			name = Easicoin;
 			productName = SwiftfulCrypto;
-			productReference = 0274CD3F264783B5008099B6 /* SwiftfulCrypto.app */;
+			productReference = 0274CD3F264783B5008099B6 /* Easicoin.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -358,7 +358,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 0274CD3A264783B5008099B6 /* Build configuration list for PBXProject "SwiftfulCrypto" */;
+			buildConfigurationList = 0274CD3A264783B5008099B6 /* Build configuration list for PBXProject "Easicoin" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -371,7 +371,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				0274CD3E264783B5008099B6 /* SwiftfulCrypto */,
+				0274CD3E264783B5008099B6 /* Easicoin */,
 			);
 		};
 /* End PBXProject section */
@@ -601,7 +601,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		0274CD3A264783B5008099B6 /* Build configuration list for PBXProject "SwiftfulCrypto" */ = {
+		0274CD3A264783B5008099B6 /* Build configuration list for PBXProject "Easicoin" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				0274CD4C264783B8008099B6 /* Debug */,
@@ -610,7 +610,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		0274CD4E264783B8008099B6 /* Build configuration list for PBXNativeTarget "SwiftfulCrypto" */ = {
+		0274CD4E264783B8008099B6 /* Build configuration list for PBXNativeTarget "Easicoin" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				0274CD4F264783B8008099B6 /* Debug */,
