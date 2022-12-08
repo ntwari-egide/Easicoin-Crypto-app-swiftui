@@ -22,9 +22,19 @@ struct LaunchView: View {
             Color.launch.background
                 .ignoresSafeArea()
             
-            Image("logo-transparent")
-                .resizable()
-                .frame(width: 100, height: 100)
+            VStack {
+                
+                Text("Easicoin - Africa")
+                    .font(.headline)
+                    .foregroundColor(Color.theme.secondaryText)
+                    .padding()
+                    .padding(.vertical)
+                
+                Image("logo-transparent")
+                    .resizable()
+                    .frame(width: 100, height: 100)
+            }
+            .padding()
             
             ZStack {
                 if showLoadingText {
